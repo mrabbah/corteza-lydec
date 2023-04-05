@@ -1,0 +1,6 @@
+connect to application
+
+http://localhost:8083
+
+login : admin@admin.com
+pwd: Azerty$123
